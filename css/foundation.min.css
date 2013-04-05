@@ -26,7 +26,7 @@ h5 {
 }
 
 body{
-	background-color: #FCFCF2;
+	background-color: #f9f9f9;
 }
 
 header {
@@ -58,7 +58,7 @@ footer {
 
 .top_bar_text_left {
 	font-family: 'Lobster', cursive;
-	color:#DDD6BE;
+	color:#f9f9f9;
 	padding-top: 5px;
 	float: left;
 	font-size: 26px;
@@ -76,7 +76,7 @@ footer {
 .panel_double {
 	border-style: solid;
 	border-width: 1px;
-	border-color: #DEE0C8;
+	border-color: #dddddd;
 	margin-bottom: 1.25em;
 	padding: 1.25em;
 	background: #fff;
@@ -87,7 +87,7 @@ footer {
 .panel_triple {
 	border-style: solid;
 	border-width: 1px;
-	border-color: #DEE0C8;
+	border-color: #dddddd;
 	margin-bottom: 1.25em;
 	padding: 1.25em;
 	background: #fff;
@@ -101,6 +101,7 @@ footer {
 	padding-left: 20px;
 }
 
+
 /*.panel_double.a:hover img {
 	background-color: black;
 }*/
@@ -111,4 +112,10 @@ footer {
 
 .panel_triple a:hover {
 	opacity: 0.65;
+}
+
+.footer_bar img {
+	width: 30px;
+	height: 30px;
+	margin-right: 15px;
 }
